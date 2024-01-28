@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703103033 source:d:\codeblocksprojects\oop\projectdynamic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
